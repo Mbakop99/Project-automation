@@ -49,5 +49,6 @@ npx playwright test <testdatei>.spec.ts
 ```
 
 ## Kontakt
-Falls Fragen oder Probleme auftreten, kannst du mich unter **[deine E-Mail-Adresse]** erreichen.
+Falls Fragen oder Probleme auftreten, kannst du mich unter **Bamsdeluxe1@gmail.com** erreichen.
+
 
