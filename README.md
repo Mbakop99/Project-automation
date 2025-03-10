@@ -1,5 +1,5 @@
-##Project-automation
-# Automation Testing mit Playwright
+# Project-automation
+## Automation Testing mit Playwright
 
 Dieses Projekt ist eine automatisierte Testlösung für eine Webanwendung, die mit **Playwright** in **Visual Studio Code** entwickelt wurde. Es beinhaltet zwei Testfälle, um die Navigation und das Buchungssystem der Anwendung zu überprüfen.
 
