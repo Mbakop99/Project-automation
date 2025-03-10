@@ -48,13 +48,6 @@ Für einen bestimmten Test:
 npx playwright test <testdatei>.spec.ts
 ```
 
-## Reporting
-
-Nach dem Testlauf wird ein **HTML-Report** generiert. Diesen kannst du mit folgendem Befehl öffnen:
-```sh
-npx playwright show-report
-```
-
 ## Kontakt
 Falls Fragen oder Probleme auftreten, kannst du mich unter **[deine E-Mail-Adresse]** erreichen.
 
